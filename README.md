@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Eliasinhoo
-- 👀 I’m interested in dota
-- 🌱 I’m currently learning kubernetes
+
 
 
 
