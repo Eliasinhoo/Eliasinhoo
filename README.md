@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eliasinhoo
+- 👋 Hi, I’m Elias
 
 
 
